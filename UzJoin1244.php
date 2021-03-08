@@ -199,7 +199,7 @@ Boshqaruv paneliga xush kelibsiz!",
         bot('editmessagetext', [
             'chat_id' => $chatid,
             'message_id' => $message_id2,
-            'text' => "📨Endi Xabaringizni Yozing🖊️",
+            'text' => "📨Endi Xabaringizni Yoziig🖊️",
         ]);
     } elseif ($azidil == "send") {
         file_put_contents("data/$chat_id/safargul.txt", "no");
