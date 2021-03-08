@@ -11,9 +11,9 @@
 
 
 ob_start();
-define("UZKOD","***"); // Token maydoni
-$admin = "***"; // Admin ID
-$channel = "***"; // Kanal useri yoki ID 
+define("UZKOD","***"); // 1696622702:AAH4szyHdidoKIb4Yl763VfnFDKWD2xiYAo
+$admin = "***"; // 1419509406
+$channel = "***"; // @tarix_quiz1 
 // Bot siz yozgan kanalda admin bo'lishi kerak aks holda muammolar chiqishi mumkin!
 
 function bot($method,$datas=[]){
